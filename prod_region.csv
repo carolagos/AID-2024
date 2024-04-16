@@ -1,0 +1,17 @@
+id,fullname,articles_count,authors_count,male,female
+1,Región de Arica y Parinacota,6350,3065,50.6,24.5
+2,Región de Tarapacá,2482,1778,48.4,26.8
+3,Región de Antofagasta,11458,6226,46.3,27.8
+4,Región de Atacama,2059,1184,49.2,21.0
+5,Región de Coquimbo,9007,4387,49.9,26.7
+6,Región de Valparaiso,34429,21486,46.9,26.5
+7,Región Metropolitana de Santiago,166381,127081,42.0,28.6
+8,Región del Libertador General Bernardo O'Higgins,1573,1045,46.7,22.6
+9,Región del Maule,13051,8227,45.9,25.6
+10,Región del Biobío,35006,25014,43.3,30.1
+11,Región de La Araucanía,19719,12758,42.5,30.0
+12,Región de Los Ríos,13273,8562,44.5,29.6
+13,Región de Los Lagos,5201,3690,49.0,26.8
+14,Región de Aysén del General Carlos Ibáñez del Campo,970,527,56.4,24.5
+15,Región de Magallanes y de la Antártica Chilena,3254,1487,46.9,26.4
+16,Región Ñuble,3900,2942,44.7,32.1
